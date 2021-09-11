@@ -1,0 +1,17 @@
+.viewport {
+    height: 800px;
+    overflow: auto;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    color: pink;
+    padding: 25px;
+    margin: 5px;
+    background: #29a16f;
+    border-radius: 25px;
+    font-size: 48px;
+}
